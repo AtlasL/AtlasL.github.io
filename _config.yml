@@ -1,0 +1,8 @@
+title: AltasL
+description: >- # Este es un ejemplo de texto multilinea
+  Bienvenidos a mi página personal. Aquí comparto mis proyectos y artículos.
+theme: minima
+
+# URL base si tu repositorio es un proyecto y no una página personal
+# baseurl: "/altasl.github.io"
+
